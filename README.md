@@ -1,1 +1,1 @@
-# desafio_rocketNews_rocketseat
+# Desafio RocketNews Rocketseat
